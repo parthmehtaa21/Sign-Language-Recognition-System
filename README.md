@@ -20,11 +20,17 @@
 ![Screenshot (3423)](https://user-images.githubusercontent.com/91052116/208237165-ca5479ee-514f-4878-939c-1bf998499e3f.png)
 System predicting sign "C" of ASL.
 
+
+
 ![Screenshot (3432)](https://user-images.githubusercontent.com/91052116/208237185-01bfb689-3df9-4306-9a4a-6944e93c7f0b.png)
 System predicting sign "I" of ASL.
 
+
+
 ![Screenshot (3437)](https://user-images.githubusercontent.com/91052116/208237197-8f853dc2-2e53-4c78-9726-fcb67e50ad66.png)
 System predicting sign "W" of ASL.
+
+
 
 # Installation
 
@@ -32,9 +38,16 @@ System predicting sign "W" of ASL.
 2. Open terminal in folder and use command - pip install -r requirements.txt
 3. run command - python main.py
 
+
+
 # ScreenShot of The Interface
 ![Screenshot (3417)](https://user-images.githubusercontent.com/91052116/208237464-3393c21e-03ac-49cc-84ad-623f2cd9ef29.png)
-![Screenshot (3417)](https://user-images.githubusercontent.com/91052116/208237473-bcd453e3-7eea-4b42-ba93-de86b83f05e7.png)
+
+
+![Screenshot (3418)](https://user-images.githubusercontent.com/91052116/208237571-e8bd02d1-a509-462d-a0fc-4438934467c5.png)
+
+
+
 ![Screenshot (3441)](https://user-images.githubusercontent.com/91052116/208237486-a9fadf31-4f73-4a21-89fb-6512200358b8.png)
 System predicting Sign "M" of ASL.
 
